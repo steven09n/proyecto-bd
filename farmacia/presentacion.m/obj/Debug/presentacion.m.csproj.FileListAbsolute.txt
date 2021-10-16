@@ -1,0 +1,35 @@
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\bin\Debug\presentacion.m.exe.config
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\bin\Debug\presentacion.m.exe
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\bin\Debug\presentacion.m.pdb
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\bin\Debug\Guna.UI.dll
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.Form1.resources
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.Properties.Resources.resources
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.csproj.CopyComplete
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.exe
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.pdb
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.venta.resources
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.Proveedores.resources
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.usuario.resources
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.inventario.resources
+C:\Users\pc\source\repos\presentacion.m\presentacion.m\obj\Debug\presentacion.m.ganancias.resources
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\bin\Debug\presentacion.m.exe.config
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\bin\Debug\presentacion.m.exe
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\bin\Debug\presentacion.m.pdb
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\bin\Debug\Guna.UI.dll
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.menu.resources
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.ganancias.resources
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.inventario.resources
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.usuario.resources
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.Properties.Resources.resources
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.Proveedores.resources
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.venta.resources
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.csproj.CopyComplete
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.exe
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\presentacion.m.pdb
+C:\Users\pc\Desktop\proyecto final\presentacion.m\presentacion.m\obj\Debug\loginAC.Form1.resources
